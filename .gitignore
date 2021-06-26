@@ -4,5 +4,5 @@
 # Ignorar os arquivos e pastas a partir desse diretório
 tmp/**
 
-#Manter o arquivo em qualquer parte do porjeto 
+# Manter o arquivo em qualquer parte do porjeto 
 !.gitkeep
